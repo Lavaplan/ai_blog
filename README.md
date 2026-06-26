@@ -30,15 +30,6 @@ streamlit
 openai
 
 
-##  ScreenShort
-  ![alt text](image.png)
-
-  ![alt text](image-1.png)
-
-  
-  ![alt text](image-2.png)
-
-
 
 
 
@@ -62,4 +53,4 @@ openai
 
 
 ##  Author
-Sonu Kumar
+yash pandey
